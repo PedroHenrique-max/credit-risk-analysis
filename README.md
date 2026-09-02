@@ -37,12 +37,14 @@ Git e GitHub
 - Dataset
   
 The project will use the Default of Credit Card Clients Dataset.
-The dataset contains information about:1Credit limits
-1. Customer demographics
-2. Payment history
-3. Bill statements
-4. Previous payments
-5. Default status
+The dataset contains information about:
+
+1. Credit limits
+2. Customer demographics
+3. Payment history
+4. Bill statements
+5. Previous payments
+6. Default status
 
 - Project Roadmap
   
