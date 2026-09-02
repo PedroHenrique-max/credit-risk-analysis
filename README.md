@@ -35,6 +35,7 @@ Scikit-learn
 Git e GitHub
 
 - Dataset
+  
 The project will use the Default of Credit Card Clients Dataset.
 The dataset contains information about:1Credit limits
 1. Customer demographics
@@ -44,6 +45,7 @@ The dataset contains information about:1Credit limits
 5. Default status
 
 - Project Roadmap
+  
 Phase 1 — Data Preparation
 * Understand the dataset.
 * Prepare and upload data to BigQuery.
@@ -71,4 +73,5 @@ Phase 6 — Business Insights
 * Develop recommendations to support credit decisions.
 
 - Project Status
- In Progress
+
+In Progress
