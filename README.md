@@ -51,24 +51,29 @@ The dataset contains information about:
 Phase 1 — Data Preparation
 * Understand the dataset.
 * Prepare and upload data to BigQuery.
+
 Phase 2 — SQL Analysis
 * Exploratory Data Analysis.
 * Default rate analysis.
 * Customer segmentation.
 * Credit behavior analysis.
+
 Phase 3 — Feature Engineering
 * Create credit risk indicators.
 * Analyze payment behavior.
 * Develop new variables for risk analysis.
+
 Phase 4 — Python Analysis
 * Data cleaning.
 * Exploratory Data Analysis.
 * Data visualization.
 * Statistical analysis.
+
 Phase 5 — Credit Risk Modeling
 * Logistic Regression.
 * Random Forest.
 * Model evaluation and comparison.
+
 Phase 6 — Business Insights
 * Identify the main risk factors.
 * Segment customers by risk level.
